@@ -1,0 +1,14 @@
+六月 09, 2022 8:24:27 下午 book.manage.Main lambda$addBook$1
+信息: 新添加了一条书籍信息：Book(bid=0, title=《ABC谋杀案》, des=阿加莎克里斯蒂著作, price=34.09)
+六月 09, 2022 8:26:23 下午 book.manage.Main lambda$addBook$1
+信息: 新添加了一条书籍信息：Book(bid=0, title=《无人生还》, des=阿加莎克里斯经典, price=76.89)
+六月 09, 2022 8:27:24 下午 book.manage.Main lambda$addStudent$0
+信息: 新添加了一条学生信息：Student(sid=0, name=zachary, gender=男, grade=2019)
+六月 09, 2022 8:27:47 下午 book.manage.Main lambda$addStudent$0
+信息: 新添加了一条学生信息：Student(sid=0, name=桐人, gender=男, grade=2020)
+六月 09, 2022 8:28:20 下午 book.manage.Main lambda$addBook$1
+信息: 新添加了一条书籍信息：Book(bid=0, title=《嫌疑人X的献身》, des=这本书巨好看, price=45.66)
+六月 09, 2022 8:46:52 下午 book.manage.Main lambda$addBorrow$2
+信息: 新添加一条借阅信息：sid:2--bid:2
+六月 09, 2022 9:37:11 下午 book.manage.Main lambda$addBorrow$2
+信息: 新添加一条借阅信息：学号:1--书籍号:3
